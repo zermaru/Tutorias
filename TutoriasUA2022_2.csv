@@ -1,0 +1,46 @@
+Profesor,Materia,Dia ,Hora inicio,Hora finaliza,Lugar,Correo
+Nataly Guzman,Humanidades,Lunes,0:00:00,12,MM203,miguel.pinto@estudiantes.uamerica.edu.co
+Fredy Rozo,Humanidades,Lunes,11,12,MM203,miguel.pinto@estudiantes.uamerica.edu.co
+Gerson Lopez,Quimica,Lunes,11,12,MM203,miguel.pinto@estudiantes.uamerica.edu.co
+Liliana Infante,Matematicas ,Lunes,13,14,EC409,miguel.pinto@estudiantes.uamerica.edu.co
+Carlos Martinez,Quimica,Lunes,14,15,EC409,miguel.pinto@estudiantes.uamerica.edu.co
+Luz Elena Tinoco,Matematicas ,Lunes,16,17,CRAI EBS-SH,miguel.pinto@estudiantes.uamerica.edu.co
+Andres Mejia,Matematicas ,Lunes,17,18,CRAI EBS-SH,miguel.pinto@estudiantes.uamerica.edu.co
+Nestor Agudelo,Matematicas ,Martes,9,11,MM103,miguel.pinto@estudiantes.uamerica.edu.co
+Alejandro Leuro,Matematicas ,Martes,9,11,MM103,miguel.pinto@estudiantes.uamerica.edu.co
+Lina Diaz,Matematicas ,Martes,9,10,MM103,miguel.pinto@estudiantes.uamerica.edu.co
+Luz Elena Tinoco,Matematicas ,Martes,10,11,MM103,miguel.pinto@estudiantes.uamerica.edu.co
+Rossember Cardenas,Matematicas ,Martes,13,15,CRAI EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Julieth Rodriguez,Matematicas ,Martes,13,15,CRAI EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Duwal Asprilla,Matematicas ,Martes,14,16,CRAI EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+William Gomez,Matematicas ,Martes,14,15,CRAI EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Jorge Ramirez,Fisicas,Martes,15,16,CRAI EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Alejandro Leuro,Matematicas ,Miercoles,7,8,MM104,miguel.pinto@estudiantes.uamerica.edu.co
+Luis Carlos Romero,Matematicas ,Miercoles,8,10,MM104,miguel.pinto@estudiantes.uamerica.edu.co
+Yesid Murillo Gerson Lopez,Quimica,Miercoles,10,12,MM104,miguel.pinto@estudiantes.uamerica.edu.co
+Diana Murcia,Humanidades,Miercoles,10,11,MM104,miguel.pinto@estudiantes.uamerica.edu.co
+Lina Diaz,Humanidades,Miercoles,11,12,A709,miguel.pinto@estudiantes.uamerica.edu.co
+Diana Galindres,Quimica,Miercoles,12,15,EC408,miguel.pinto@estudiantes.uamerica.edu.co
+Carlos Martinez,Quimica,Miercoles,12,13,EC409,miguel.pinto@estudiantes.uamerica.edu.co
+Jorge Ramirez,Fisicas,Miercoles,15,16,EE104,miguel.pinto@estudiantes.uamerica.edu.co
+Andres Mejia,Matematicas ,Miercoles,19,20,CRAI EB5-S,miguel.pinto@estudiantes.uamerica.edu.co
+Jhonny Osorio,Matematicas ,Jueves,10,12,EC401,miguel.pinto@estudiantes.uamerica.edu.co
+German Lopez,Matematicas ,Jueves,11,12,EC401,miguel.pinto@estudiantes.uamerica.edu.co
+Danny Jimenez,Fisicas,Jueves,12,15,"EC401, EB5-N",danny.jimenez@profesores.uamerica.edu.co
+Carlos Martinez,Quimica,Jueves,12,13,EC401,miguel.pinto@estudiantes.uamerica.edu.co
+William Gomez,Fisicas,Jueves,12,13,EC402,miguel.pinto@estudiantes.uamerica.edu.co
+German Lopez,Humanidades,Jueves,12,13,EC403,miguel.pinto@estudiantes.uamerica.edu.co
+Diana Murcia,Humanidades,Jueves,13,14,EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Diego Cifuentes,Quimica,Jueves,15,17,EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Lina Diaz,Matematicas ,Jueves,16,17,EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Fredy Rozo,Humanidades,Jueves,16,17,EB5-N,miguel.pinto@estudiantes.uamerica.edu.co
+Nicolas Najar,Matematicas ,Viernes,10,12,EC405,miguel.pinto@estudiantes.uamerica.edu.co
+Gerson Lopez,Quimica,Viernes,10,11,EC405,miguel.pinto@estudiantes.uamerica.edu.co
+Catherine Reyes,Fisicas,Viernes,11,13,EC405,miguel.pinto@estudiantes.uamerica.edu.co
+Ginna Trujillo,Quimica,Viernes,12,14,EC405,miguel.pinto@estudiantes.uamerica.edu.co
+Carlos Martinez,Quimica,Viernes,17,18,A709,miguel.pinto@estudiantes.uamerica.edu.co
+Diego Cifuentes,Quimica,Sabado,10,11,EA804,miguel.pinto@estudiantes.uamerica.edu.co
+Miguel Pinto,Matematicas ,Lunes,10,11,EA805,miguel.pinto@estudiantes.uamerica.edu.co
+Miguel Pinto,Fisicas,martes,10,11,EA806,miguel.pinto@estudiantes.uamerica.edu.co
+Miguel Pinto,Quimica,miércoles,10,11,EA807,miguel.pinto@estudiantes.uamerica.edu.co
+Miguel Pinto,Humanidades,jueves,10,11,EA808,miguel.pinto@estudiantes.uamerica.edu.co
